@@ -1,5 +1,5 @@
 {
-  "name": "send-email",
+  "name": "send-email-service",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.3",
     "nodemailer": "^4.6.3"
   }
 }
