@@ -1,2 +1,4 @@
 # send-email
-test to send email via Node JS, Go.
+Send email via Node JS.
+Relies on a GMail acct for backend.
+Need to provide your own GMail acct email and password.
