@@ -3,7 +3,7 @@ A simple email-sending service written in Node JS.
 
 Launches an http server at port 8080
 
-# notes
+## notes
 Relies on a GMail acct for backend.
 
 Need to provide your own GMail acct email and password.
