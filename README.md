@@ -1,5 +1,7 @@
 # send-email
-Send email via Node JS script.
+A simple email-sending service written in Node JS.
+
+Launches an http server at port 8080
 
 # notes
 Relies on a GMail acct for backend.
