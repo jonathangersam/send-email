@@ -17,3 +17,5 @@ you may optionally build this as a docker image (Dockerfile is provided)
 4. via browser, go to localhost:8080 to see instructions
 5. sample to send something localhost:8080/send?phone=+6312345678&msg=hello_world
 
+tag 2018-April-19 (Thursday)
+
